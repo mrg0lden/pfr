@@ -3,7 +3,7 @@
 A simple program that runs `go-peerflix` and `mpv` with a single command. Although `go-peerflix` supports this feature, it needs a lot of typing. I could've made a small PowerShell script to solve this, but I wanted to have some fancy progress indicators, which I don't know how to make in PowerShell.
 
 ## Requirements
-1. Go
+1. A [Go installation](https://golang.org/dl)
 1. `go-peerflix` installed in PATH
 	```
 	go get -u github.com/Sioro-Neoku/go-peerflix
